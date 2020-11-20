@@ -11,6 +11,7 @@
 ![Tela de calculo de frete](https://github.com/camimassaneiro/Padrao-de-Projeto-Abstract-Factory---GOF/blob/master/abstract%20view.PNG)
 
 Especificações para Correio Expresso:
+
 • Expresso: se baseia somente no peso (por isso ele precisa ser maior que 0)
 • Verificar se foi especificado um destino válido (somente as regiões do Brasil)
 • Permitir especificar somente destinos válidos
@@ -19,4 +20,5 @@ Especificações para Correio Expresso:
 • Sul ou Sudeste: peso * 0,025
 
 Especificações para Correio Normal:
-![Correio Normal]()
+
+![Correio Normal](https://github.com/camimassaneiro/Padrao-de-Projeto-Abstract-Factory---GOF/blob/master/Correio%20normal.PNG)
